@@ -144,7 +144,7 @@ class _HomePageState extends State<HomePage> {
             padding: const EdgeInsets.fromLTRB(0,20,0,0),
             child: Row(
               children: [
-                Image.asset('Combination-medium.png', height: 100),
+                Image.asset('assets/Combination-medium.png', height: 100),
                 const SizedBox(width: 20),
                 const Text('Proposal Reviewer'),
               ]
