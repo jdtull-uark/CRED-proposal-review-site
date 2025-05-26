@@ -71817,7 +71817,7 @@ return A.M(p.q5(),$async$oe)
 case 6:case 5:p.an(new A.akl(p))
 case 1:return A.E(q,r)}})
 return A.F($async$oe,r)},
-U(a){var s,r,q=this,p=null,o=t.E,n=A.fN(p,new A.Lv(new A.dT(B.Im,A.xF(A.a([new A.vF(A.aJC(p,p,new A.tP("Combination-medium.png",p,p)),100,p),B.a0o,B.a4p],o)),p),10,p),B.C,p,p,B.Ea,p,p,p,p,p,p,p),m=A.avg(!1,B.a4k,p,!0,p,p,q.ga9w(),p,p,p),l=A.avg(!1,B.a4m,p,!0,p,p,q.ga9u(),p,p,p)
+U(a){var s,r,q=this,p=null,o=t.E,n=A.fN(p,new A.Lv(new A.dT(B.Im,A.xF(A.a([new A.vF(A.aJC(p,p,new A.tP("assets/Combination-medium.png",p,p)),100,p),B.a0o,B.a4p],o)),p),10,p),B.C,p,p,B.Ea,p,p,p,p,p,p,p),m=A.avg(!1,B.a4k,p,!0,p,p,q.ga9w(),p,p,p),l=A.avg(!1,B.a4m,p,!0,p,p,q.ga9u(),p,p,p)
 m=A.a([m,B.kj,l,B.kj,A.awj(B.a4o,q.d==null?p:q.gPZ()),B.kj],o)
 l=q.d
 if(l!=null)m.push(A.lv("PDF Selected: "+l.b,p,B.bF))
