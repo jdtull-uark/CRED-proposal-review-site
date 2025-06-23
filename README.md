@@ -1,4 +1,4 @@
-# nsfproposalhelper_app
+# CRED Proposal Review Web App
 
 A Flutter web app for reviewing NSF proposals by flagging and highlighting specific terms in PDF documents.
 
